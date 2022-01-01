@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="A propos.css ">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
+        <title>Accueil</title>
+    </head>
+    <body>
+        <div class="div-titre">
+            <header>
+                <h1 class="titre">Elton TWELA</h1>
+                <nav class="nav-titre">
+                    <ul class="page-reliées">
+                        <li><a class="lien1" href="Acceuil.html">Accueil</a></li>
+                        <li><a class="lien2" href="Galeries.html">Galeries</a></li>
+                        <li><a class="lien3" href="A propos.html">A propos</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+        <div class="div-vide"></div>
+
+        <h1>Le CV de Elton</h1>
+    
+        <div class="cv">
+            <h2>TWELA MWAY ELTON </h2> <hr>
+            <h3>CERTIFICATION</h3> 
+                <ul>
+                    <li>Certificat d'etudes primaire en 2010</li>
+                    <li>Diplôme d'etat en MATHEMATIQUE-PHYSIQUE 2018</li>
+                </ul> <hr>
+            <h3>COORDONNEES</h3>
+            <ul>
+                <li> Email: eltontwela@gmail.com</li>
+                <li> Adresse: 2 Boulevard salongo, Lemmba, Kinshasa</li>
+                <li>Téléphone: +243 812 625 324</li>
+            </ul> <hr>
+            <h3>COMPETENCES</h3>
+            <ul>
+                <li>Maitrise de soie</li>
+                <li>Facilité de travailler en équipe</li>
+                <li>Conduire</li>
+            </ul> <hr>
+            <h3>LANGUES</h3>
+            <ul>
+                <li>Français(correctement)</li>
+                <li>Anglais(apprentissage)</li>
+                <li>Espagnole(apprentissage)</li>
+                <li>Lingala(correctement)</li>
+                <li>Kikongo</li>
+            </ul>
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+        <footer>
+            <p class="foot-contact"></p>
+            
+            <p class="foot-para">  
+                copyright &copy; 2021 Tout droit reservées        
+            </p>
+        </footer>    
+    </body>
+</html>
